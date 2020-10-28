@@ -1,4 +1,5 @@
-# mall
+# netease-stores
+网易严选商城
 
 ## Project setup
 ```
