@@ -46,6 +46,7 @@
             ? ''
             : $store.state.cartTotal.goodsCount
         "
+        to="/buycart"
         icon="cart-o"
         text="购物车"
       />
