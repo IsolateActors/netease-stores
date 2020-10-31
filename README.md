@@ -1,6 +1,8 @@
 # netease-stores
 网易严选商城
 
+> mall-server 本地服务端数据
+
 ## Project setup
 ```
 yarn install
