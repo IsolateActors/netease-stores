@@ -3,7 +3,9 @@
     <van-tabbar-item icon="home-o" to="/">首页</van-tabbar-item>
     <van-tabbar-item icon="cashier-o">专题</van-tabbar-item>
     <van-tabbar-item icon="apps-o" to="/category">分类</van-tabbar-item>
-    <van-tabbar-item icon="shopping-cart-o">购物车</van-tabbar-item>
+    <van-tabbar-item icon="shopping-cart-o" to="buycart"
+      >购物车</van-tabbar-item
+    >
     <van-tabbar-item icon="user-o">我的</van-tabbar-item>
   </van-tabbar>
 </template>
